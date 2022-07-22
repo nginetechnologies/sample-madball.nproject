@@ -15547,38 +15547,33 @@
             ]
         },
         {
-            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "f1ce11d6-a9f3-0d36-90cc-fab4cc74cf53",
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     2.9992,
                     12.9968,
                     10.9973
-                ]
+                ],
+				"rotation": [ 0, 0, 180 ]
             },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
-                ]
-            },
-            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                "mesh": "4fc8601f-ab8a-4992-bd8e-4136beae1b83",
-                "material_instance": "db610d9b-7793-94f6-8913-74cf3bf56719"
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "sphere"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f1ce11d6-a9f3-0d36-90cc-fab4cc74cf53"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
                 }
             ]
         }
