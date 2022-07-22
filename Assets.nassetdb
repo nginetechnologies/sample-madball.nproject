@@ -1,0 +1,193 @@
+{
+    "0316b9f1-2742-6f39-3b32-10b54406bb27": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Madball_EnviroDiffuse.tex.nasset"
+    },
+    "0358f636-6ec8-312f-2c54-7f698dacedb1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Side.mesh.nasset/Terrain Side Pink.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "09922fe9-068e-e08e-c455-007bbc213cf0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Cube.mesh.nasset/Terrain Cube.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1089bb1d-a8a2-4ea5-f200-3fbc5ed2d7f1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Pink_D.tex.nasset"
+    },
+    "14355840-8ea9-eed6-9c6a-4fd9380f1d38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Corner Center.mesh.nasset/Terrain Corner Center.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "25546847-f5eb-7014-b71a-30a3f781b5ab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Corner Top.mesh.nasset/Terrain Corner Top White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2d35bd58-8942-42be-9370-b8c4f5a1cc03": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "c81d8424-a65a-447f-b5c4-7633f18c38db"
+    },
+    "352e9bea-f131-bb49-59ed-7bf25a8ca1ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Cube.mesh.nasset/Terrain Cube Orange.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3a0d0bda-30e4-c7d3-dcd4-9f3ee2695fb7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/SC_Madball.scene.nasset"
+    },
+    "3c1a1176-958f-f5e5-2803-a98252051cbc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Pink.mtli.nasset"
+    },
+    "3c3dee51-3536-17c5-fd8b-6ccb7add33a0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Madball_EnviroSpecular.tex.nasset"
+    },
+    "4a39a27c-576a-6edc-4872-8f1dd4834f2b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Corner Bottom.mesh.nasset/Terrain Corner Bottom.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5388e1f7-998b-4409-4782-99e906b040c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Side.mesh.nasset/Terrain Side.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6503fbeb-8561-b2a4-a2c2-61af3c176f40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Ramp.mesh.nasset/Terrain Ramp.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "66805fc1-733e-0aed-2ffe-b56c3f86fd6f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Purple_D.tex.nasset"
+    },
+    "68011519-f956-b0cc-06c3-47eb208e4e3f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Corner Bottom.mesh.nasset/Terrain Corner Bottom Purple.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6c8f84cb-7149-cccf-ac40-d452824a3af4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/White.mtli.nasset"
+    },
+    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Box.physmat.nasset"
+    },
+    "71ee5e1e-8539-d9d5-0743-8e69a074d28a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Corner Top.mesh.nasset/Terrain Corner Top.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8653bdd5-3d81-f697-45b3-f8d1b5eb98db": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Blue.mtli.nasset"
+    },
+    "9814342e-bf78-8e3f-91c5-14830223cae6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Madball_Enviro.tex.nasset"
+    },
+    "9ee94752-bc8b-414b-b66a-a8b9fce78a11": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Madball.scene.nasset"
+    },
+    "b4f34d4c-5246-3cf9-374e-1e93d26ff5be": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Purple.mtli.nasset"
+    },
+    "ba991d2a-9bd7-99ec-91e1-946797e76550": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Corner Center.mesh.nasset/Terrain Corner Center White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bdaf5b30-58f9-28da-a5d8-6c2e679fa641": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Orange.mtli.nasset"
+    },
+    "c28e3157-a1b1-895f-9ff3-a88d0a3b4daa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Madball_EnviroBRDF.tex.nasset"
+    },
+    "c6fff03c-fa0d-00c7-9719-299a77cba078": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Blue_D.tex.nasset"
+    },
+    "c81d8424-a65a-447f-b5c4-7633f18c38db": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Madball_Thumb.tex.nasset"
+    },
+    "d6a49e47-a92a-a69c-901d-288761647674": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Madball.scene.nasset/Terrain Ramp.mesh.nasset/Terrain Ramp Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "db610d9b-7793-94f6-8913-74cf3bf56719": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Chrome.mtli.nasset",
+        "thumbnail": "39520302-4a6f-8358-7960-bb6757741ac4"
+    },
+    "e95160b5-9f01-a360-4319-88759e54333f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
+    },
+    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "f0c5480b-7a52-3e4e-601a-f3302fbea891": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_White_D.tex.nasset"
+    },
+    "f97dc87c-f3a5-c6ea-2b2f-27f0b11b48a0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Orange_D.tex.nasset"
+    }
+}
