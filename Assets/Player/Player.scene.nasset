@@ -13,14 +13,49 @@
     ],
     "children": [
         {
+            "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
+            "instanceGuid": "4ca540b9-a73b-41c2-b993-0a546cb6cb62",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0,
+                    -6,
+                    2
+                ],
+                "rotation": [
+                    -20,
+                    0.0,
+                    0.0
+                ]
+            },
+            "b0ec7111-5de9-4039-bee2-d915f63f929e": {
+                "fieldOfView": 60.0,
+                "nearPlane": 0.05,
+                "farPlane": 128.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Camera"
+                },
+                {
+                    "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
+                    "rotationSpeed": 10.0,
+                    "positionSpeed": 2.0,
+                    "verticalStep": 0.0,
+                    "flags": 1
+                }
+            ]
+        },
+        {
             "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
             "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
                 "jumpHeight": 3.0,
-                "walkingSpeed": 2.0,
-                "runningSpeed": 4.0,
+                "walkingSpeed": 20.0,
+                "runningSpeed": 40.0,
                 "walkingTurnSpeed": 5.0,
-                "runningTurnSpeed": 6.5
+                "runningTurnSpeed": 6.5,
+                "flags": 3
             },
             "data_components": [
                 {
@@ -33,48 +68,17 @@
             ],
             "children": [
                 {
-                    "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
-                    "instanceGuid": "4ca540b9-a73b-41c2-b993-0a546cb6cb62",
-                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                        "position": [
-                            0,
-                            -6,
-                            2
-                        ],
-                        "rotation": [
-                            -20,
-                            0.0,
-                            0.0
-                        ]
-                    },
-                    "b0ec7111-5de9-4039-bee2-d915f63f929e": {
-                        "fieldOfView": 60.0,
-                        "nearPlane": 0.05,
-                        "farPlane": 128.0
-                    },
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Camera"
-                        },
-                        {
-                            "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
-                            "rotationSpeed": 20.0,
-                            "positionSpeed": 2.0,
-                            "verticalStep": 1.0
-                        }
-                    ]
-                },
-                {
-                    "typeGuid": "a413cecf-a566-413d-bb01-bd1317cd4bb2",
+                    "typeGuid": "f8ad93e2-e8d0-4d15-b2a7-371e57a9bb67",
                     "instanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88",
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                        "physical_material": "fc419012-762b-4d62-94a8-e0391325ad54"
                     },
-					"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-						"type": 2,
-						"layer": 1
-					},
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "overriddenMass": 0,
+                        "body_flags": 0
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -92,7 +96,7 @@
                             "typeGuid": "2c2ae148-5dc3-48b3-b1d6-d81913078fe5",
                             "instanceGuid": "adeed443-251c-4ae7-b176-49f122eb4a8b",
                             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                                "physical_material": "fc419012-762b-4d62-94a8-e0391325ad54"
                             },
                             "2c2ae148-5dc3-48b3-b1d6-d81913078fe5": {
                                 "radius": 0.4
@@ -101,38 +105,40 @@
                                 "position": [
                                     0.0,
                                     0.0,
-                                    0.4
+                                    0.0
                                 ]
                             }
                         },
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-							"instanceGuid": "a1a06a67-9d98-8ccc-2d5f-f48fa4a0de24",
-							"9f750482-b822-4d4b-be6a-9c135c614328": {
-								"stages": [
-									"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-									"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-									"86d22670-1f09-4246-ae43-ef7f1b16c977"
-								]
-							},
-							"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                            "instanceGuid": "a1a06a67-9d98-8ccc-2d5f-f48fa4a0de24",
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                ]
+                            },
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
                                     0.0,
-                                    0.4
+                                    0.0
                                 ],
-								"scale": [ 0.8 ]
+                                "scale": [
+                                    0.8
+                                ]
                             },
-							"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-								"mesh": "4fc8601f-ab8a-4992-bd8e-4136beae1b83",
-								"material_instance": "db610d9b-7793-94f6-8913-74cf3bf56719"
-							},
-							"data_components": [
-								{
-									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-									"name": "Sphere"
-								}
-							]
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4fc8601f-ab8a-4992-bd8e-4136beae1b83",
+                                "material_instance": "db610d9b-7793-94f6-8913-74cf3bf56719"
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Sphere"
+                                }
+                            ]
                         }
                     ]
                 }

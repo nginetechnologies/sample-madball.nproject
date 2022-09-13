@@ -189,5 +189,9 @@
     "f97dc87c-f3a5-c6ea-2b2f-27f0b11b48a0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/T_Orange_D.tex.nasset"
+    },
+    "fc419012-762b-4d62-94a8-e0391325ad54": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Player.physmat.nasset"
     }
 }
