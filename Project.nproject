@@ -13,7 +13,6 @@
     "library_directory": "lib",
     "thumbnail_guid": "c81d8424-a65a-447f-b5c4-7633f18c38db",
     "default_scene": "9ee94752-bc8b-414b-b66a-a8b9fce78a11",
-    "repository": "https://github.com/nginetechnologies/ngine-samples/raw/master/Madball.nproject",
     "source": "Madball.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
