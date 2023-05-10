@@ -47,7 +47,6 @@
         },
         {
             "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
-            "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
                 "jumpHeight": 3.0,
                 "walkingSpeed": 20.0,
@@ -68,7 +67,6 @@
             "children": [
                 {
                     "typeGuid": "f8ad93e2-e8d0-4d15-b2a7-371e57a9bb67",
-                    "instanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88",
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
                         "physical_material": "fc419012-762b-4d62-94a8-e0391325ad54"
                     },
@@ -93,7 +91,6 @@
                     "children": [
                         {
                             "typeGuid": "2c2ae148-5dc3-48b3-b1d6-d81913078fe5",
-                            "instanceGuid": "adeed443-251c-4ae7-b176-49f122eb4a8b",
                             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                                 "physical_material": "fc419012-762b-4d62-94a8-e0391325ad54"
                             },
