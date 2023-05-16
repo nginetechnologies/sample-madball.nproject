@@ -1,6 +1,7 @@
 {
     "name": "Madball",
     "guid": "2d35bd58-8942-42be-9370-b8c4f5a1cc03",
+    "database_guid": "1a4f646b-efd8-7fe7-1b66-efa72e3f99cb",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,8 +12,9 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "c81d8424-a65a-447f-b5c4-7633f18c38db",
-    "default_scene": "9ee94752-bc8b-414b-b66a-a8b9fce78a11",
+    "thumbnail_guid": "8f327a0c-1ced-2f2c-ad0d-d9fdc3e0a829",
+    "default_scene": "5875c6d3-edf7-450b-b407-cd5108cf6c8f",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "source": "Madball.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
