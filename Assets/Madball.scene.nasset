@@ -104,9 +104,9 @@
                     2.9937
                 ],
                 "rotation": [
-                    -45.0121,
+                    -20.0,
                     0.0,
-                    0.0
+                    -60.0
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -247,6 +247,28 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
+                }
+            ]
+        },
+        {
+            "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    6.0
+                ]
+            },
+            "ea45accb-89d5-4816-9831-f116045b90e4": {
+                "audio_asset": "d5af615a-f4bf-7925-432a-63540d1eb8d8",
+                "looping": true,
+                "volume": 0.5,
+                "outer_radius": 100.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chiptunes Music"
                 }
             ]
         }
