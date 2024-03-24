@@ -4,48 +4,12 @@
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
     "instanceGuid": "662611ee-0162-738a-e272-1ee697143b12",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
-        "radius": 4096.0
+        "radius": 4096
     },
-    "data_components": [
-        {
-            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
-            "camera_settings": {
-                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
-                "9ae0e145-86b4-4e47-afda-697bbd008922": {
-                    "fieldOfView": 60.0,
-                    "nearPlane": 0.1,
-                    "farPlane": 128.0
-                }
-            },
-            "transform": {
-                "position": [
-                    8.1687,
-                    11.8973,
-                    6.5664
-                ],
-                "rotation": [
-                    -12.9329,
-                    0.0,
-                    139.3522
-                ]
-            },
-            "grid_settings": {
-                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
-                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
-                    "transform": {
-                        "position": [
-                            0.0,
-                            2.0,
-                            4.0
-                        ]
-                    }
-                }
-            }
-        },
-        {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        }
-    ],
+    "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[6.704863548278809,-15.228713035583496,8.514487266540528],\"rotation\":[-41.46333312988281,4.804905984201469e-7,38.72119903564453]}"
+    },
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",

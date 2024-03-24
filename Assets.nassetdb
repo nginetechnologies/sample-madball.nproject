@@ -15,12 +15,14 @@
     "5875c6d3-edf7-450b-b407-cd5108cf6c8f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Madball.scene.nasset"
+        "path": "Assets/Madball.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[6.704863548278809,-15.228713035583496,8.514487266540528],\"rotation\":[-41.46333312988281,4.804905984201469e-7,38.72119903564453]}"
+        }
     },
     "guid": "1a4f646b-efd8-7fe7-1b66-efa72e3f99cb",
     "imported_assets": [
-        "d5af615a-f4bf-7925-432a-63540d1eb8d8",
-        "f616fd83-c04d-5046-ec4f-337246821c42",
         "3b92018f-6396-34f2-6f5a-32351a9876e2",
         "469a1426-9637-417e-9ac9-3cae924cc8ed",
         "4b7a1111-90d3-63c2-b74d-8f33209fac27",
@@ -38,8 +40,10 @@
         "98ab11a9-c0f5-f0c4-5b7d-1314f9f8a8d0",
         "add21ee8-1432-ccc6-0609-84a43d7049e5",
         "c706af5c-0563-840d-b7d8-acea505ea188",
+        "d5af615a-f4bf-7925-432a-63540d1eb8d8",
         "e9d16f83-f88d-2d2e-174d-f0cca9d39865",
         "ea248713-d98b-bd19-1f35-65c40e825371",
+        "f616fd83-c04d-5046-ec4f-337246821c42",
         "f6b522f4-e7b1-4824-9a54-2654c22bac72",
         "ff9cd4e0-a1e4-d74c-5c2f-e757b7286040"
     ]
